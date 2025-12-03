@@ -22,4 +22,4 @@ def download_and_save_image(url, save_folder, filename=None):
 
 # Example usage:
 url = 'https://vincmazet.github.io/image-labs/_downloads/6686990507c201e82d66d24abf45d167/chess.png'
-download_and_save_image(url, 'TP3')
+download_and_save_image(url, 'TP6')
